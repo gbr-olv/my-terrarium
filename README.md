@@ -25,7 +25,7 @@ Check out the live version here:
 
 - HTML5
 - CSS3
-- JavaScript (Vanilla)
+- JavaScript
 
 ---
 
