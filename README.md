@@ -1,16 +1,14 @@
-# 🌿 My Terrarium
+## 🌿 My Terrarium
 
 This is an interactive virtual terrarium project built using **HTML**, **CSS**, and **JavaScript**.  
 You can **click and drag plants** to arrange them however you like inside the glass jar.
 
----
-
-# 🖥️ Live Demo
+## 🖥️ Live Demo
 
 Check out the live version here:  
 👉 [https://gbr-olv.github.io/my-terrarium/](https://gbr-olv.github.io/my-terrarium/)
 
-<img width="882" height="563" alt="image" src="https://github.com/user-attachments/assets/58a477f6-291d-4cf7-9660-3aca5ff1daff" />
+<img width="640" height="480" alt="image" src="https://github.com/user-attachments/assets/58a477f6-291d-4cf7-9660-3aca5ff1daff" />
 
 ---
 
