@@ -15,7 +15,7 @@ Check out the live version here:
 ### 🚀 Features
 
 - 💡 A visually styled terrarium with a glass jar effect
-- 🪴 Drag-and-drop functionality for plants
+- 🖱 Drag-and-drop functionality for plants
 - 🎨 Clean and responsive layout
 - ⚙️ Built with pure web technologies (no frameworks)
 
