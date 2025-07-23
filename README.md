@@ -10,11 +10,11 @@ You can **click and drag plants** to arrange them however you like inside the gl
 Check out the live version here:  
 👉 [https://gbr-olv.github.io/my-terrarium/](https://gbr-olv.github.io/my-terrarium/)
 
-<img width="1765" height="1127" alt="image" src="https://github.com/user-attachments/assets/58a477f6-291d-4cf7-9660-3aca5ff1daff" />
+<img width="882" height="563" alt="image" src="https://github.com/user-attachments/assets/58a477f6-291d-4cf7-9660-3aca5ff1daff" />
 
 ---
 
-## 🚀 Features
+### 🚀 Features
 
 - 💡 A visually styled terrarium with a glass jar effect
 - 🪴 Drag-and-drop functionality for plants
@@ -23,7 +23,7 @@ Check out the live version here:
 
 ---
 
-## 🛠 Technologies Used
+### 🛠 Technologies Used
 
 - HTML5
 - CSS3
@@ -31,6 +31,6 @@ Check out the live version here:
 
 ---
 
-# ⚠ DISCLAIMER
+### ⚠ DISCLAIMER
 
 This project is part of the **Microsoft Web Dev for Beginners** curriculum and was developed to practice front-end skills such as element positioning, event handling, and DOM manipulation using vanilla JavaScript.
