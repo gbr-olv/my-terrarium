@@ -13,6 +13,8 @@ dragElement(document.getElementById('plant12'));
 dragElement(document.getElementById('plant13'));
 dragElement(document.getElementById('plant14'));
 
+let maxZ = 10; // define z-index inicial
+
 function dragElement(terrariumElement) {
 	//set 4 positions for positioning on the screen
 	let pos1 = 1,
@@ -20,6 +22,10 @@ function dragElement(terrariumElement) {
 		pos3 = 3,
 		pos4 = 0;
 	terrariumElement.onpointerdown = pointerDrag;
+
+    terrariumElement.ondblclick = function () {
+        terrariumElement.style.zIndex = maxZ++;
+    };
 
     function pointerDrag(e) {
         e.preventDefault();
